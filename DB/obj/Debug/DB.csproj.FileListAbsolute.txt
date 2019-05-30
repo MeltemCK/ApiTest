@@ -1,0 +1,10 @@
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\DB.dll.config
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\DB.dll
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\DB.pdb
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\obj\Debug\DB.dll
+C:\Users\MSI\Documents\Visual Studio 2017\Projects\TrendyolApi\DB\obj\Debug\DB.pdb
